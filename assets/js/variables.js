@@ -1,10 +1,10 @@
 const variables = {
   greetings: {
-    morning: "Selamat Pagi",
-    day: "Selamat Siang",
-    afternoon: "Selamat Sore",
-    evening: "Selamat Malam",
-    night: "Selamat Malam",
+    morning: "Selamat Ulang Tahun",
+    day: "Selamat Ulang Tahun",
+    afternoon: "Selamat Ulang Tahun",
+    evening: "Selamat Ulang Tahun",
+    night: "Selamat Ulang Tahun",
   },
   quotes: [
     {
